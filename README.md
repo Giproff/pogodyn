@@ -1,1 +1,1 @@
-Начинаем клонировать внешний репозиторий Giproff/pogodyn
+Внешний репозиторий Giproff/pogodyn на GitHub
